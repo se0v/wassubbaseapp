@@ -25,3 +25,9 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+
+  assets:
+    - assets/Ellipse 791.png
+    - assets/Ellipse 796.png
+    - assets/Vector 1.png
+    - assets/Vector.png
